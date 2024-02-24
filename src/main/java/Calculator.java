@@ -1,6 +1,6 @@
 
 class Calculator {
-    //adding comment
+    //adding commen
     Calculator(){
 
     }
