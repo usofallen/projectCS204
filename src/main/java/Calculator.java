@@ -49,7 +49,7 @@ class Calculator {
         }
         return b;
     }
-    //so cool
+    //so cool another
 
 
     /*
